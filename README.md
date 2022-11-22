@@ -1,16 +1,14 @@
-### Hi there 👋
+## real speedtest
+![logo](https://files.catbox.moe/q25pd3.png)
+### FAQ
+***what is this?*** - most speedtests like speedtest.net connect to random isps and providers, the aim is to measure your speeds with servers most people connect to. (google, discord, microsoft, etc)
 
-<!--
-**real-speedtest/real-speedtest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***what servers do you have right now?*** - google drive, dropbox, microsoft onedrive and discord.
 
-Here are some ideas to get you started:
+***is this perfectly accurate?*** - not perfect, but close enough
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### READ
+*feel free to modify the script! adding servers is really easy but just fork it and don't reupload without any credit!*
+
+### LAST TESTED ON PYTHON 3.11
+use terminal/cmd, opening it directly as a file will be dumb because it will close immediately after it prints the result, you shouldn't do that at all anyways.
